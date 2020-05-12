@@ -1,0 +1,27 @@
+html,body {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+#app{
+    width: 100%;
+    height: 100%;
+}
+
+.fd-padding-20{
+    padding: 20px;
+}
+
+.fd-padding-top-10{
+    padding-top: 10px;
+    
+}
+.fd-padding-bottom-5{
+    padding-bottom: 5px;
+}
+
+.fd-height-100{
+    height: 100%;
+}
